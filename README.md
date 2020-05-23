@@ -1,6 +1,6 @@
 # Simpo (client)
 
-CRU project built with webpack, react & redux from the ground up
+CRU project built with Webpack, React & Redux
 
 ## Getting Started
 
