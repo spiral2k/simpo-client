@@ -1,0 +1,25 @@
+@import './mixin';
+
+body {
+    margin: 0;
+    font-size: 14px;
+    @include font-smoothing;
+}
+
+* {
+    box-sizing: border-box;
+    outline: none;
+}
+
+.container {
+    width: 1024px;
+    margin: 0 auto;
+}
+
+.right {
+    float: right;
+}
+
+.left {
+    float: left;
+}

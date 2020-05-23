@@ -1,0 +1,17 @@
+.profiles-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+    & .load-more {
+        float: left;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        padding-top: 30px;
+
+        & .button {
+            width: 200px;
+        }
+    }
+}

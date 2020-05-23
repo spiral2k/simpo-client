@@ -1,0 +1,12 @@
+.profile-container {
+    width: 30%;
+    padding: 10px;
+    border-radius: 5px;
+    background: #edeced;
+    margin-top: 20px;
+
+    & .name {
+        font-size: 20px;
+        line-height: 30px;
+    }
+}

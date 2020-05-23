@@ -1,0 +1,11 @@
+.create-profile-container {
+    height: 100%;
+
+    & form {
+        display: flex;
+        align-items: center;
+        & .input {
+            margin-right: 5px;
+        }
+    }
+}
